@@ -38,3 +38,4 @@ RD /S /Q C:\Users\%username%\AppData\Local\AppData\Roaming\KEK
 RD /S /Q C:\Windows\Prefetch
 RD /S /Q C:\Windows\Temp
 RD /S /Q C:\Windows\SoftwareDistribution\Download
+RD /S /Q C:\Windows\Recent
